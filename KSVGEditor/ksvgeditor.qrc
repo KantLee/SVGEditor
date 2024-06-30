@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/circle_checked.png</file>
+        <file>images/circle_hover.png</file>
+        <file>images/circle_unchecked.png</file>
+        <file>images/hexagon_checked.png</file>
+        <file>images/hexagon_hover.png</file>
+        <file>images/hexagon_unchecked.png</file>
+        <file>images/line_checked.png</file>
+        <file>images/line_hover.png</file>
+        <file>images/line_unchecked.png</file>
+        <file>images/pencil_checked.png</file>
+        <file>images/pencil_hover.png</file>
+        <file>images/pencil_unchecked.png</file>
+        <file>images/pentagon_checked.png</file>
+        <file>images/pentagon_hover.png</file>
+        <file>images/pentagon_unchecked.png</file>
+        <file>images/pentagram_checked.png</file>
+        <file>images/pentagram_hover.png</file>
+        <file>images/pentagram_unchecked.png</file>
+        <file>images/rect_checked.png</file>
+        <file>images/rect_hover.png</file>
+        <file>images/rect_unchecked.png</file>
+        <file>images/select_checked.png</file>
+        <file>images/select_hover.png</file>
+        <file>images/select_unchecked.png</file>
+        <file>images/text_checked.png</file>
+        <file>images/text_hover.png</file>
+        <file>images/text_unchecked.png</file>
+        <file>images/zoom_checked.png</file>
+        <file>images/zoom_hover.png</file>
+        <file>images/zoom_unchecked.png</file>
+        <file>images/LOGO.png</file>
+    </qresource>
+</RCC>
